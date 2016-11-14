@@ -6,6 +6,10 @@ post_title: >
 author: Jon Morgan
 layout: chapter
 published: true
+pb_export:
+  - 'on'
+pb_show_title:
+  - 'on'
 ---
 <em>From Andrea Elizabeth Hall via <a href="https://www.facebook.com/shepherd.cheer/posts/1521850961164256">Facebook</a></em>
 
