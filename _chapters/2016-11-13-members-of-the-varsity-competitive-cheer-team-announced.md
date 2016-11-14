@@ -4,7 +4,6 @@ post_title: >
   New Members of the Varsity Competitive
   Cheer Team Announced
 author: Jon Morgan
-post_date: 2016-11-13 14:50:30
 layout: chapter
 published: true
 ---
