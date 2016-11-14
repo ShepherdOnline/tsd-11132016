@@ -6,7 +6,7 @@ post_title: >
 author: Jon Morgan
 post_date: 2016-11-13 14:50:30
 post_excerpt: ""
-layout: post
+layout: chapter
 permalink: >
   http://www.shepherdhistory.org/shepherdjournal/2016/11/13/members-of-the-varsity-competitive-cheer-team-announced/
 published: true
