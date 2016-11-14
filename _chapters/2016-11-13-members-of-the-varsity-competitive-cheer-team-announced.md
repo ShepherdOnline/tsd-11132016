@@ -1,23 +1,12 @@
 ---
-ID: 97
+
 post_title: >
   New Members of the Varsity Competitive
   Cheer Team Announced
 author: Jon Morgan
 post_date: 2016-11-13 14:50:30
-post_excerpt: ""
 layout: chapter
-permalink: >
-  http://www.shepherdhistory.org/shepherdjournal/2016/11/13/members-of-the-varsity-competitive-cheer-team-announced/
 published: true
-custom_sidebar:
-  - none
-top_term:
-  - "27"
-tags: [ ]
-categories:
-  - Athletics
-  - Schools
 ---
 <em>From Andrea Elizabeth Hall via <a href="https://www.facebook.com/shepherd.cheer/posts/1521850961164256">Facebook</a></em>
 
